@@ -1,0 +1,16 @@
+{
+  "name": "htmljsdemo",
+  "version": "1.0.0",
+  "description": "this is a js based project for learning how to deal with export and default ",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "viki",
+  "license": "ISC",
+  "type": "module"
+}
